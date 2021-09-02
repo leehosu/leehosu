@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Lake%20Github&fontSize=90)
 
 
+### 경험을 위한 도전을 중시하는 개발자
 
-현재 스타트업에서 Web 개발자로 일 하고 있으며, 경험을 얻기 위해 도전을 두려워하지 않습니다.
 정리하는 것을 중요한 가치로 여기고 있고 완성도 있는 구현을 위해 생각을 정리한 후 개발을 하는 것을 선호합니다.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
