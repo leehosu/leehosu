@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Lake%20Github&fontSize=90)
 
 
-### 경험을 위한 도전을 중시하는 개발자
+### 정리하는 개발자
 
-정리하는 것을 중요한 가치로 여기고 있고 완성도 있는 구현을 위해 생각을 정리한 후 개발을 하는 것을 선호합니다.
-
+정리하는 것을 가장 큰 가치로 두고 개발하는 것을 선호합니다.
+ 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
