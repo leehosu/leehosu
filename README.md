@@ -23,6 +23,8 @@
 	<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" />
 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 	<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
+	<img src="https://img.shields.io/badge/vuejs-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
+	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" />
