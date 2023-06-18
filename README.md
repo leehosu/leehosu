@@ -8,6 +8,8 @@
 	<img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat&logo=AWSRDS&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=AWSEC2&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS Cloudwatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS EKS-FF9900?style=flat&logo=amazoneks&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS SQS-FF4F8B?style=flat&logo=amazonsqs&logoColor=white" />	
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
