@@ -40,10 +40,3 @@
 </div>
 
 <br>
-<br>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehosu&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api?username=leehosu&show_icons=true">
-</div>
