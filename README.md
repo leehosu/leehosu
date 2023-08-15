@@ -19,6 +19,10 @@
 	<img src="https://img.shields.io/badge/elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
 	<img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
 	<img src="https://img.shields.io/badge/apachegroovy-4298B8?style=flat&logo=apachegroovy&logoColor=white" />
+	<img src="https://img.shields.io/badge/argo-EF7B4D?style=flat&logo=argo&logoColor=white" />
+	<img src="https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+	<img src="https://img.shields.io/badge/fluentbit-49BDA5?style=flat&logo=fluentbit&logoColor=white" />
+	<img src="https://img.shields.io/badge/prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
