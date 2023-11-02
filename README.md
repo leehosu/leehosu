@@ -24,9 +24,10 @@
 	<img src="https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white" />
 	<img src="https://img.shields.io/badge/fluentbit-49BDA5?style=flat&logo=fluentbit&logoColor=white" />
 	<img src="https://img.shields.io/badge/prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
+	<img src="https://img.shields.io/badge/helm-0F1689?style=flat&logo=helm&logoColor=white" />
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+  	<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" />
 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 	<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
@@ -42,6 +43,7 @@
 	<img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white" />
 	<img src="https://img.shields.io/badge/confluence-172B4D?style=flat&logo=confluence&logoColor=white" />
 	<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" />
+	<img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white" />
 </div>
 
 <br>
