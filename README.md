@@ -18,15 +18,12 @@
 	<img src="https://img.shields.io/badge/helm-0F1689?style=flat&logo=helm&logoColor=white" />
 	<img src="https://img.shields.io/badge/terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
 	<img src="https://img.shields.io/badge/ingress-783CBD?style=flat&logo=ingress&logoColor=white" />
-	
  	<img src="https://img.shields.io/badge/elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
 	<img src="https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white" />
 	<img src="https://img.shields.io/badge/fluentbit-49BDA5?style=flat&logo=fluentbit&logoColor=white" />
 	<img src="https://img.shields.io/badge/prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
-	
  	<img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
  	<img src="https://img.shields.io/badge/github action-2088FF?style=flat&logo=githubactions&logoColor=white" />
-	
  	<img src="https://img.shields.io/badge/argo-EF7B4D?style=flat&logo=argo&logoColor=white" />
 </div>
 <div align="center">
