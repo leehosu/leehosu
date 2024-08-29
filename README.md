@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Lake%20Github&fontSize=90)
-
-
 <div align="center">
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=AmazonS3&logoColor=white" />
