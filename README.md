@@ -1,3 +1,13 @@
+
+
+<div align="center">
+	
+|[CKAD](https://www.credly.com/earner/earned/badge/4fa3cde8-b033-41db-b3ae-65ef0fd79b28)|[CKA](https://www.credly.com/earner/earned/badge/26892ea2-d25d-47f7-945c-74c9e5308db1)|
+|------|---|
+|![CKAD](https://images.credly.com/size/120x120/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png) |![CKA](https://images.credly.com/size/123x123/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png) |
+
+</div>
+
 <div align="center">
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=AmazonS3&logoColor=white" />
@@ -47,11 +57,3 @@
 </div>
 
 <br>
-
-<div align="center">
-	
-|[CKAD](https://www.credly.com/earner/earned/badge/4fa3cde8-b033-41db-b3ae-65ef0fd79b28)|[CKA](https://www.credly.com/earner/earned/badge/26892ea2-d25d-47f7-945c-74c9e5308db1)|
-|------|---|
-|![CKAD](https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png) |![CKA](https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png) |
-
-</div>
