@@ -1,3 +1,9 @@
+
+<div align="center">
+	<img sre="https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" />
+	<img sre="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" />
+</div>
+
 <div align="center">
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=AmazonS3&logoColor=white" />
