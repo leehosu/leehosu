@@ -4,7 +4,7 @@
 	
 |[CKAD](https://www.credly.com/earner/earned/badge/4fa3cde8-b033-41db-b3ae-65ef0fd79b28)|[CKA](https://www.credly.com/earner/earned/badge/26892ea2-d25d-47f7-945c-74c9e5308db1)|
 |------|---|
-|![CKAD](https://images.credly.com/size/120x120/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png) |![CKA](https://images.credly.com/size/120x120/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png) |
+|![CKAD](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png) |![CKA](https://images.credly.com/size/120x120/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png) |
 
 </div>
 
