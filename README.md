@@ -1,14 +1,6 @@
 
 
 <div align="center">
-	
-|[CKAD](https://www.credly.com/earner/earned/badge/4fa3cde8-b033-41db-b3ae-65ef0fd79b28)|[CKA](https://www.credly.com/earner/earned/badge/26892ea2-d25d-47f7-945c-74c9e5308db1)|
-|------|---|
-|![CKAD](https://training.linuxfoundation.org/wp-content/uploads/2019/03/kubernetes-ckad-color-300x294.png) |![CKA](https://training.linuxfoundation.org/wp-content/uploads/2019/03/logo_cka_whitetext-300x293.png) |
-
-</div>
-
-<div align="center">
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 <!-- 	<img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=AmazonS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" />
@@ -57,3 +49,13 @@
 </div>
 
 <br>
+
+
+<div align="center">
+	
+|[CKAD](https://www.credly.com/earner/earned/badge/4fa3cde8-b033-41db-b3ae-65ef0fd79b28)|[CKA](https://www.credly.com/earner/earned/badge/26892ea2-d25d-47f7-945c-74c9e5308db1)|
+|------|---|
+|![CKAD](https://training.linuxfoundation.org/wp-content/uploads/2019/03/kubernetes-ckad-color-300x294.png) |![CKA](https://training.linuxfoundation.org/wp-content/uploads/2019/03/logo_cka_whitetext-300x293.png) |
+
+</div>
+
