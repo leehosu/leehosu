@@ -19,6 +19,7 @@
 	<img src="https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white" />
 	<img src="https://img.shields.io/badge/fluentbit-49BDA5?style=flat&logo=fluentbit&logoColor=white" />
 	<img src="https://img.shields.io/badge/prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
+	<img src="https://img.shields.io/badge/thanos-6D41FF?style=flat&logo=prometheus&logoColor=white" />
 </div>
 
 <div align="center">
