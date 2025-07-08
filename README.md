@@ -1,4 +1,7 @@
 
+
+
+
 <div align="center">
 	
 ```
@@ -11,8 +14,11 @@
   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝        ╚═╝ 
 
 ```                                                                                                                         
-
 </div>
+
+
+![Lake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leehosu&show_icons=true)
+
 
 
 
